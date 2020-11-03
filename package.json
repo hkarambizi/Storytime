@@ -1,0 +1,16 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "A story generator for your console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "story",
+    "terminal",
+    "node"
+  ],
+  "author": "Harry Karambizi",
+  "license": "ISC"
+}
