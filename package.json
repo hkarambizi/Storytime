@@ -12,5 +12,8 @@
     "node"
   ],
   "author": "Harry Karambizi",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }

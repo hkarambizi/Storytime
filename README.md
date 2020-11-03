@@ -11,6 +11,7 @@ Playing is very easy. In an open terminal:
 - Navigate to the project directory
 - Run `npm install`
 - Run `node index.js`
+- Follow the story prompts and enjoy the adventure.
 
 ## Technologies
 - Node.js
